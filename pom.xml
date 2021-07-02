@@ -38,7 +38,7 @@
     <commons-httpclient.version>3.1</commons-httpclient.version>
     <commons-lang.version>2.6</commons-lang.version>
     <commons-lang3.version>3.4</commons-lang3.version>
-    <elasticsearch.version>1.7.1</elasticsearch.version>
+    <elasticsearch.version>6.8.15</elasticsearch.version>
     <esper.version>4.4.0</esper.version>
     <geronimo-servlet_3.0_spec.version>1.0</geronimo-servlet_3.0_spec.version>
     <gson.version>2.7</gson.version>
